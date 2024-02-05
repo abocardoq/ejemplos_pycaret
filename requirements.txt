@@ -1,1 +1,7 @@
+pandas
+plotly
+streamlit
+yfinance
+pandas-datareader
+prophet
 pycaret[full]==3.0.0
